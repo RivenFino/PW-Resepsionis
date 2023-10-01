@@ -4,5 +4,4 @@ Front-End
 Back-End
 -Middleware 
 -Database
--Migrations
 -Seeder
